@@ -1,5 +1,6 @@
+import "./index.css";
 function App() {
-  return <div className="App">aaaa</div>;
+  return <div>aaaa</div>;
 }
 
 export default App;
